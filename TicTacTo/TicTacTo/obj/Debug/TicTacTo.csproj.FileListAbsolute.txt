@@ -1,0 +1,9 @@
+C:\Users\Stoycho\Desktop\TicTacTo\TicTacTo\bin\Debug\TicTacTo.exe.config
+C:\Users\Stoycho\Desktop\TicTacTo\TicTacTo\bin\Debug\TicTacTo.exe
+C:\Users\Stoycho\Desktop\TicTacTo\TicTacTo\bin\Debug\TicTacTo.pdb
+C:\Users\Stoycho\Desktop\TicTacTo\TicTacTo\obj\Debug\TicTacTo.csprojResolveAssemblyReference.cache
+C:\Users\Stoycho\Desktop\TicTacTo\TicTacTo\obj\Debug\TicTacTo.Properties.Resources.resources
+C:\Users\Stoycho\Desktop\TicTacTo\TicTacTo\obj\Debug\TicTacTo.csproj.GenerateResource.Cache
+C:\Users\Stoycho\Desktop\TicTacTo\TicTacTo\obj\Debug\TicTacTo.exe
+C:\Users\Stoycho\Desktop\TicTacTo\TicTacTo\obj\Debug\TicTacTo.pdb
+C:\Users\Stoycho\Desktop\TicTacTo\TicTacTo\obj\Debug\TicTacTo.TicTacToe.resources
